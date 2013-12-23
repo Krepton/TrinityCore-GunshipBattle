@@ -1,3 +1,6 @@
+## Why is this repo for?
+It is default TrinityCore but with Gunship Battle and some more features. I will implement the gunship battle in it and merge it weekly with TrinityCore. Feel free to do any Pull Requests if you want.
+
 # ![logo](http://www.trinitycore.org/f/public/style_images/1_trinitycore.png) TrinityCore
 
 
